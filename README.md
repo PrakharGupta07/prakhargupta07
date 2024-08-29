@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGO3DDT2aL4-A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348240381?e=1730332800&v=beta&t=hvmw1JQZaVUcHNk9rLcIzfympsJDRBPblPGO_Y8vdC8)
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
 <h3 align="center">🚀 Growth Marketer | Aspiring Consultant | Entrepreneur</h3>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align="right" alt="Coding" width="380" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhargupta07&label=Profile%20views&color=0e75b6&style=flat" alt="prakhargupta07" /> </p>
 
